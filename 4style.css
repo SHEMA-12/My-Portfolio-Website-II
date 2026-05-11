@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #f4f4f4;
+    color: #222;
+}
+
+header {
+    background-color: #111;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+.hero {
+    text-align: center;
+    padding: 70px 20px;
+    background-color: #e0e0e0;
+}
+
+.hero h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #111;
+    color: white;
+    cursor: pointer;
+}
+
+.education {
+    background-color: white;
+    width: 70%;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+    line-height: 1.8;
+}
+
+.education h1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+}
+
+.education p {
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
